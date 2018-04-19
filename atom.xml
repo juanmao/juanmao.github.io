@@ -4,7 +4,7 @@
   <title><![CDATA[神様のブログ]]></title>
   <link href="http://juanmao.github.io/atom.xml" rel="self"/>
   <link href="http://juanmao.github.io/"/>
-  <updated>2018-04-19T20:39:45+08:00</updated>
+  <updated>2018-04-19T21:33:49+08:00</updated>
   <id>http://juanmao.github.io/</id>
   <author>
     <name><![CDATA[xiaoyi]]></name>
@@ -12,5 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://juanmao.github.io/blog/2018/04/19/hello-world/"/>
+    <updated>2018-04-19T21:09:21+08:00</updated>
+    <id>http://juanmao.github.io/blog/2018/04/19/hello-world</id>
+    <content type="html"><![CDATA[<h1>日本語</h1>
+
+<p><strong>雲</strong></p>
+
+<p>私は雲に
+なりたいな。</p>
+
+<p>ふわりふわりと
+青空の
+果てから果を
+みんなみて、
+夜はお月さんと
+鬼ごつこ。</p>
+
+<p>それも飽きたら
+雨になり
+雷さんを
+供につれ、
+おうちの池へ
+とびおりる。</p>
+]]></content>
+  </entry>
   
 </feed>
